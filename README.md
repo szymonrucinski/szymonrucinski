@@ -4,3 +4,5 @@ I am Szymon Ruciński. I am an IT student fascinated with endless cloud and AI p
 - 🌱 I’m currently learning Node.js, React and Python
 - 👯 I’m looking to collaborate on AI and WebApps projects
 - 📫 [Reach me](https://www.szymonrucinski.pl)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
