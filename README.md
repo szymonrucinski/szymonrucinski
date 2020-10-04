@@ -5,4 +5,4 @@ I am Szymon Ruciński. I am an IT student fascinated with endless cloud and AI p
 - 👯 I’m looking to collaborate on AI and WebApps projects
 - 📫 [Reach me](https://www.szymonrucinski.pl)
 
-![Alt Text](https://tenor.com/uJUr.gif)
+![Alt Text](https://i.gifer.com/T8QC.gif)
