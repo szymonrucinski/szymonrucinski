@@ -5,3 +5,4 @@ I am Szymon Ruciński. I am an IT student fascinated with endless cloud and AI p
 - 👯 I’m looking to collaborate on AI and WebApps projects
 - 📫 [Reach me](https://www.szymonrucinski.pl)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szymonrucinski&show_icons=true&count_private=true" alt="szymonrucinski" width="50%"/></p>
