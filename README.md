@@ -9,6 +9,8 @@ I am Szymon Ruciński. I am a Data-science/ Machine-learning student fascinated 
 
 
 <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png"></code>
+<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
