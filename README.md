@@ -1,5 +1,7 @@
-### Hi, lads! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am Szymon Ruciński. I am a Data-science/ Machine-learning student fascinated with endless cloud and AI possibilites. Doing my best to stay competetive and eager to learn new stuff. For me programming is just a tool for executing my high-level ideas. After hours I make YouTube videos, personal projects and of course run or cycle. My goal is to take part in triathlon competition in 2021 🥈🏃‍♂️ 🚴‍♀️
+<!-- ### Hi, lads! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQEd23Ua_DhKDg/profile-displaybackgroundimage-shrink_350_1400/0/1613521737846?e=1642032000&v=beta&t=eMQ5qXt5BtnA4yyrBdCbqrAokhHXl1y7Y4ZW8HsYucw">
+
+Servus! I am a Data-science/ Machine-learning student fascinated with endless cloud and AI possibilites. Doing my best to stay competetive and eager to learn new stuff. For me programming is just a tool for executing my high-level ideas. After hours I make YouTube videos, personal projects and of course run or cycle. My goal is to take part in triathlon competition in 2021 🥈🏃‍♂️ 🚴‍♀️
 
 - Machine translation 🇰🇷🇩🇪
 - Image processing 🏙📸
