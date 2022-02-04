@@ -1,6 +1,3 @@
-<!-- ### Hi, lads! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQEd23Ua_DhKDg/profile-displaybackgroundimage-shrink_350_1400/0/1613521737846?e=1642032000&v=beta&t=eMQ5qXt5BtnA4yyrBdCbqrAokhHXl1y7Y4ZW8HsYucw">
-
 I am a Machine-learning & software engineering student fascinated with endless cloud and AI possibilites. Doing my best to stay competetive and eager to learn new stuff. For me programming is just a tool for executing my high-level ideas. After hours I make YouTube videos, personal projects and of course run or cycle.
 
 - Machine translation 🇰🇷🇩🇪
