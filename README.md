@@ -2,7 +2,7 @@
 
 ## 🤓 Introduction
 I am a Machine-learning engineer specialized in NLP and CV. I am huge cloud enthusiast! Doing my best to stay competetive and eager to learn new stuff. For me programming is just a tool for executing my high-level ideas. 
-After hours I make YouTube videos 🎥, personal projects and of course run and train road-cylcing 🚴‍♀️🏃‍♂️
+After hours I make YouTube videos 🎥, personal projects and of course run and train road-cycling in the Swiss Alps 🚴‍♀️🏃‍♂️
 
 ## 👨‍🔬 My expertize
 - Natural Language Processing (Machine translation 🇰🇷🇩🇪, Text generation, Chatbots, Multi Label Classification for text)
