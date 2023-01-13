@@ -20,8 +20,8 @@ After hours I make YouTube videos 🎥, personal projects and of course run and 
 <code><img height="20" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
-
+<!-- <code><img height="20" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
+ -->
 ## 🌐 My very own piece of the internet 
 
 - Check out my Website: [https://szymonrucinski.pl](https://szymonrucinski.pl)
