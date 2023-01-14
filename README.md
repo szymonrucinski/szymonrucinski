@@ -25,7 +25,7 @@ After hours I make YouTube videos 🎥, personal projects and of course run and 
 ## 🌐 My very own piece of the internet 
 
 - Check out my Website: [https://szymonrucinski.pl](https://szymonrucinski.pl)
-- Check out my YouTube channel: [https://ruchopornikow.pl](https://ruchopornikow.pl)
+- Visit my YouTube channel: [https://ruchopornikow.pl](https://ruchopornikow.pl)
 
 ## 📫 How to reach me:
 
