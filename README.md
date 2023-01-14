@@ -1,4 +1,4 @@
-# Hello there! ... General Kenobi! <img src="https://media.giphy.com/media/mz8zBbIRBpcSyorACC/giphy.gif" width="60">
+# Hello there! ... General Kenobi! <img src="ewok.gif" width="100">
 
 ## 🤓 Introduction
 I am a Machine-learning engineer specialized in NLP and CV. I am huge cloud enthusiast! Doing my best to stay competetive and eager to learn new stuff. For me programming is just a tool for executing my high-level ideas. 
