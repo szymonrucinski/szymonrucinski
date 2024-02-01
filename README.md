@@ -1,10 +1,10 @@
 ### 🤖 Introduction 🦾
-I am a Machine Learning Engineer specialized in AI research, Natural Language Processing (NLP), Computer Vision (CV), Cloud and Networking. I am huge Linux and MacOs enthusiast!
+I am a Machine Learning Engineer specialized in AI research, Natural Language Processing (NLP), Computer Vision (CV), Cloud and Networking. Huge Linux and MacOs enthusiast! 🐧🍎
 
 ### 👨‍🔬 My expertize
 - NLP (LLMs, Machine translation 🇰🇷🇩🇪, Text2Speech, Audio2Audio)
 - CV (CNNs, Image Classification and Generation, GANs, Unsupervised Anomaly Detection, Image & Video processing 🏙📸 )
-- Operating Sytems and Cloud 🐧
+- Operating Sytems and Cloud 🐧🌤️
   
 ### 🧰 Languages and Tools
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
@@ -19,8 +19,8 @@ I am a Machine Learning Engineer specialized in AI research, Natural Language Pr
  -->
 ### 🌐 My very own piece of the internet 
 
-- Check out my Website: [https://szymonrucinski.pl](https://szymonrucinski.pl)
-- Visit my YouTube channel: [https://ruchopornikow.pl](https://ruchopornikow.pl)
+- My Website: [https://szymonrucinski.pl](https://szymonrucinski.pl)
+- My YouTube channel: [https://ruchopornikow.pl](https://ruchopornikow.pl)
 
 ### 📫 How to reach me:
 
