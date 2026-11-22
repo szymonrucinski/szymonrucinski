@@ -1,49 +1,16 @@
-  # Szymon Ruciński
+<a href="https://rucinski.ai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img alt="Szymon Ruciński — PhD @ ETH Zürich &amp; CSEM · Efficient &amp; Edge AI. I run neural networks on a $10 chip." src="./assets/hero-light.svg" width="100%" />
+  </picture>
+</a>
 
-  **ML Architect | PhD Student at ETH Zürich**
+PhD researcher at [ETH Zürich (D-ITET)](https://ee.ethz.ch/) & [CSEM](https://www.csem.ch) ([SwissChips](https://swisschips.ethz.ch/)), compressing vision transformers and world models for microcontrollers, AI camera sensors, and robotics.
 
-  *Building intelligent systems at the edge — from neural networks to silicon*
+**`00 /` Now**
+- **FTerViT** — Fully Ternary Vision Transformer accepted at **NeurIPS 2026** ([paper](https://arxiv.org/abs/2605.21171) · [live demo](https://szymonrucinski-ftervit.static.hf.space) · [write-up](https://rucinski.ai/blog/ftervit-ternary-vision-transformer))
+- **Robot learning** — world models & embedded perception at [ETH Robotics Club](https://www.ethrobotics.ch/)
+- **Open models** — [krakowiak-7b](https://huggingface.co/szymonrucinski/krakowiak-7b) (Polish LLM) · [Skryba-v1](https://huggingface.co/szymonrucinski/Skryba-v1) (1.5B Polish ASR) · [AiRoll](https://szymonrucinski-airoll.static.hf.space)
 
-  [![Website](https://img.shields.io/badge/rucinski.ai-000000?style=flat-square&logo=About.me&logoColor=white)](https://rucinski.ai)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-rucinski/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://ruchopornikow.pl)
-
-  </div>
-
-  ---
-
-  ### About
-
-  ML Architect and PhD Student at ETH Zürich specializing in AI research, NLP, Computer Vision, and Cloud Infrastructure. Currently focused on AI chips, TinyML, and embedded systems. Linux and macOS enthusiast.
-
-  ---
-
-  ### Expertise
-
-  | Domain | Focus Areas |
-  |--------|-------------|
-  | **NLP** | Large Language Models, Machine Translation, Text-to-Speech, Audio Processing |
-  | **Computer Vision** | CNNs, Image Classification & Generation, GANs, Anomaly Detection |
-  | **Edge AI** | TinyML, AI Accelerators, Hardware-Software Co-design |
-  | **Infrastructure** | Operating Systems, Cloud Architecture, DevOps |
-
-  ---
-
-  ### Tech Stack
-
-  <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  </p>
-
-  ---
-
-  <div align="center">
-  <i>Open to collaboration on ML research and edge AI projects</i>
-  </div>
+[rucinski.ai](https://rucinski.ai) · [Hugging Face](https://huggingface.co/szymonrucinski) · [Google Scholar](https://scholar.google.com/citations?user=FvGSOtcAAAAJ) · [LinkedIn](https://www.linkedin.com/in/szymon-ruciński-a87b92182/)
